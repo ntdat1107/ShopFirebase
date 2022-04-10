@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopFB</string>
+    <string name="agree_term_condition">I agree to the <u>term &amp; condition</u></string>
+    <string name="forgot_pwd_description">Enter your username and e-mail address we\'ll send you a email to reset your password</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_products">Products</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_orders">Orders</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

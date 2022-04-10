@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938737412778",
+    "project_id": "shopfb-86483",
+    "storage_bucket": "shopfb-86483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938737412778:android:ab456ab399cc9a3d88bed3",
+        "android_client_info": {
+          "package_name": "com.example.shopfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938737412778-0gifv9mdi61mpo2i58peobjh5c56v08e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopfb",
+            "certificate_hash": "99565ad411d34034687911401d28d24c317875be"
+          }
+        },
+        {
+          "client_id": "938737412778-0rp72jfkhbqp28jn80uqhoao7hu8dad1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZm2csqE61qyn8uFnJXxYC63qjoW_Dw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938737412778-0rp72jfkhbqp28jn80uqhoao7hu8dad1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
